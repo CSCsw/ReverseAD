@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/CSCsw/ReverseAD.svg?branch=master)](https://travis-ci.org/CSCsw/ReverseAD)
-[![codecov](https://codecov.io/gh/wangmu0701/ReverseAD/branch/master/graph/badge.svg)](https://codecov.io/gh/wangmu0701/ReverseAD)
 
 # ReverseAD
 ****
